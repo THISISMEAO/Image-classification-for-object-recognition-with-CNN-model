@@ -1,0 +1,17 @@
+# macOS.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# datasets (IMPORTANT)
+data/
+
+# results
+result/
+
+# temp files
+~$*
